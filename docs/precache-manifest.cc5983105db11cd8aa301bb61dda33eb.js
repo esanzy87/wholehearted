@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95f6a17fa82bbf6966a6d6e05e748c86",
+    "revision": "473614ec7d08f2ff1b9fd4ffd120fab6",
     "url": "/index.html"
   },
   {
-    "revision": "28747e8926c908dfe3fb",
+    "revision": "3fbb9600f09d38d851f9",
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "1e6ffc7335b2268d358b",
+    "revision": "f710b60039fce85b873a",
     "url": "/static/css/main.420ed33c.chunk.css"
   },
   {
-    "revision": "28747e8926c908dfe3fb",
-    "url": "/static/js/2.21221347.chunk.js"
+    "revision": "3fbb9600f09d38d851f9",
+    "url": "/static/js/2.bc7166ff.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.21221347.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bc7166ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e6ffc7335b2268d358b",
-    "url": "/static/js/main.6e092002.chunk.js"
+    "revision": "f710b60039fce85b873a",
+    "url": "/static/js/main.2efac65d.chunk.js"
   },
   {
     "revision": "a0ec923bd874eb989120",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/farming_equipment.3d3dbbb7.jpg"
   },
   {
+    "revision": "b02a39ce82e6ac0a7a7061ecdbf78676",
+    "url": "/static/media/fe2.b02a39ce.png"
+  },
+  {
     "revision": "ab04168438ea31754b0704d111d67353",
     "url": "/static/media/it_talents.ab041684.jpg"
   },
@@ -60,12 +64,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/japan_flag.4d2db3de.png"
   },
   {
+    "revision": "9c7ebe2f01ac612024875d4c5b1e4115",
+    "url": "/static/media/mask1.9c7ebe2f.jpg"
+  },
+  {
+    "revision": "dd3b062fdf81ce106f948e976cda2484",
+    "url": "/static/media/mask2.dd3b062f.jpg"
+  },
+  {
+    "revision": "4433044847a8b8be1c90e51e9a95a6d6",
+    "url": "/static/media/mask3.44330448.jpg"
+  },
+  {
+    "revision": "545c10c31bf7eb70f07e1d93ce6ee032",
+    "url": "/static/media/mask4.545c10c3.jpg"
+  },
+  {
+    "revision": "c5a19ba2705f4489796e0b15f11c043a",
+    "url": "/static/media/mask5.c5a19ba2.jpg"
+  },
+  {
+    "revision": "c312bdd0fd0989bf8611f094e420a447",
+    "url": "/static/media/mask6.c312bdd0.jpg"
+  },
+  {
     "revision": "72e0e24227277f00bb6fcc260cf09c95",
     "url": "/static/media/me_flags.72e0e242.png"
   },
   {
     "revision": "ccd4435594b931713b8a75b0950935bd",
     "url": "/static/media/products_bg.ccd44355.jpg"
+  },
+  {
+    "revision": "8fd989d465e805808a676e01b0a82db6",
+    "url": "/static/media/test_result.8fd989d4.png"
   },
   {
     "revision": "257582d04d9dbcc35a00ea4e5ba87ed3",
